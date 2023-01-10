@@ -5,5 +5,31 @@
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "21646593-2e6a42cc-4a14-445e-a136-85f9c4515565"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "新增数据",
+			"item": [],
+			"id": "65c158fb-709a-40e3-a1a8-91943359b5de"
+		},
+		{
+			"name": "查询数据",
+			"item": [],
+			"id": "966481f3-3f4e-4c1c-82f6-5d4ce647bf50"
+		},
+		{
+			"name": "查询数据",
+			"id": "91392cee-fc88-4541-9525-f5f5f7a98a4d",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
 }
